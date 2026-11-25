@@ -1,0 +1,51 @@
+[
+    {
+        "id": "P1",
+        "priority": 5,
+        "deadline": 2,
+        "weight": 4,
+        "value": 70
+    },
+    {
+        "id": "P2",
+        "priority": 3,
+        "deadline": 1,
+        "weight": 3,
+        "value": 45
+    },
+    {
+        "id": "P3",
+        "priority": 4,
+        "deadline": 3,
+        "weight": 5,
+        "value": 80
+    },
+    {
+        "id": "P4",
+        "priority": 2,
+        "deadline": 2,
+        "weight": 2,
+        "value": 30
+    },
+    {
+        "id": "P5",
+        "priority": 5,
+        "deadline": 1,
+        "weight": 6,
+        "value": 95
+    },
+    {
+        "id": "P6",
+        "priority": 1,
+        "deadline": 4,
+        "weight": 4,
+        "value": 35
+    },
+    {
+        "id": "P7",
+        "priority": 4,
+        "deadline": 2,
+        "weight": 3,
+        "value": 55
+    }
+]

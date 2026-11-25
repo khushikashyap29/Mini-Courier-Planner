@@ -1,0 +1,8 @@
+Ran 4 tests in the local project environment.
+
+test_dijkstra_and_path ... ok
+test_knapsack_capacity ... ok
+test_merge_sort_order ... ok
+test_nearest_neighbor ... ok
+
+Result: OK (4 tests passed)
